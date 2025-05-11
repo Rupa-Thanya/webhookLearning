@@ -34,5 +34,6 @@ public class CiTest extends BaseClass {
 	
 	public void webhooktest() {
 		System.out.println("webhoook test runed or not");
+		System.out.println("webhoook test runed or not");
 	}
 }
