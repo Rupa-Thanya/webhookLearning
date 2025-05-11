@@ -29,4 +29,10 @@ public class CiTest extends BaseClass {
 
 		soft.assertAll();
 	}
+	
+@Test
+	
+	public void webhooktest() {
+		System.out.println("webhoook test runed or not");
+	}
 }
